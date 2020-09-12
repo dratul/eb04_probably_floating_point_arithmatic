@@ -8,7 +8,7 @@
 <b>Discipline | <b>Electronics and Communication Engineering
 :--|:--|
 <b> Lab | <b> Digital Signal Processing
-<b> Experiment|     <b> 1. To implement floating point arithmetic. </b>
+<b> Experiment|     <b> To implement floating point arithmetic. </b>
 
 <hr>
 
@@ -20,8 +20,10 @@
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| Student will be able to understand basic signals | Understand  | Understand
-2.| Students will be able to analyze basic signals | Analyse | Analyse
+user will be ableto
+1.| understand basics of fast fourier transform | Understand  | Understand
+2.| analyze effect of fast fouerier transform | Analyse | Analyse
+3.| apply fast fourier transform (FFT) in interpolation of samples |Apply|Apply
 
 
 
